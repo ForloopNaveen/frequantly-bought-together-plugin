@@ -1,0 +1,40 @@
+# Copyright (C) 2024 Naveen
+# This file is distributed under the same license as the Frequently Bought Together plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Frequently Bought Together\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/frequently-bought-together\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-07-02T21:00:22+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: frequently-bought-together\n"
+
+#. Plugin Name of the plugin
+#: frequently-bought-together.php
+#: App/Controller/Admin/Main.php:16
+#: App/View/fbt-products.php:15
+msgid "Frequently Bought Together"
+msgstr ""
+
+#. Description of the plugin
+#: frequently-bought-together.php
+msgid "This is a plugin to set a frequent products to the product."
+msgstr ""
+
+#. Author of the plugin
+#: frequently-bought-together.php
+msgid "Naveen"
+msgstr ""
+
+#: App/View/fbt-products.php:35
+msgid "Add all to cart"
+msgstr ""
+
+#: App/View/Main.php:7
+msgid "Select the products that are frequently bought together with this product:"
+msgstr ""
