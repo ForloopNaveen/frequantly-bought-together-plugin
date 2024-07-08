@@ -1,5 +1,5 @@
-    <?php
-    /*
+<?php
+    /**
      * Plugin Name: Frequently Bought Together
      * Description: This is a plugin to set a frequent products to the product.
      * Licence: GPL2 or latest
@@ -21,8 +21,6 @@
     }
 
 
-//    add_filter('fbt_change_button_name', function($value) {
-//        return 'tesdgagt';
-//    });
+
 
 
